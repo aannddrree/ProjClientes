@@ -1,0 +1,6 @@
+C:\Users\André\source\repos\ProjClientes\Model\bin\Debug\Model.dll
+C:\Users\André\source\repos\ProjClientes\Model\bin\Debug\Model.pdb
+C:\Users\André\source\repos\ProjClientes\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\André\source\repos\ProjClientes\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\ProjClientes\Model\obj\Debug\Model.dll
+C:\Users\André\source\repos\ProjClientes\Model\obj\Debug\Model.pdb
